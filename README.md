@@ -1,2 +1,2 @@
 # DA
- data analysis
+ python3 data analysis
